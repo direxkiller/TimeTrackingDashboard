@@ -1,0 +1,71 @@
+.card{
+  background-color: royalblue;
+  border-radius: 1rem;
+}
+
+.par{
+  margin-top: 35px;
+}
+
+.letra{
+  font-size: 5rem!important;
+  color: white;
+}
+
+.let{
+  font-size: large;
+  color: white;
+}
+
+.title{
+  font-size: x-small;
+  color: white;
+}
+
+.info{
+  font-size: x-small;
+  color: white;
+}
+
+.morado{
+  background-color: hsl(235, 46%, 20%);
+  padding: 32px;
+}
+
+.azul{
+  background-color: hsl(246, 80%, 60%);
+}
+
+.writ{
+  color: white;
+}
+
+.imm{
+  width: 100px;
+  height: 100px;
+  border: solid white;
+  border-radius: 50%;
+}
+
+.icon{
+  height: 70px;
+}
+
+.blue{
+  background-color: hsl(235, 46%, 20%);
+  margin-top: -20px;
+}
+
+.bn{
+  opacity: 50%;
+}
+
+.fz-10{
+  font-size: 4rem!important;
+}
+
+.hola{
+  height: 50%;
+  width: 20px;
+  padding-top: 10px;  
+}
